@@ -1,10 +1,11 @@
 
 # 1. RECOGNITION SKIN DESEASE DEMO IN APP USER FLUTTER
 # 2. RECOGNITION SKIN DESEASE DEMO IN WEB USE FLASK
-    (github: https://github.com/trungtruc123/TTTN_DAC)
+    ( github: https://github.com/trungtruc123/TTTN_DAC )
 # 2. Giới thiệu đề tài
 Bệnh ngoài da là loại bệnh rất phổ biến ở bất kỳ lứa tuổi nào. Tuy bệnh không nguy hiểm đến tính mạng nhưng ảnh hưởng trực tiếp đến bề mặt da gây mất thẩm mỹ, ảnh hưởng đến tâm lý của người bệnh gây mất tự tin trong giao tiếp và khó khăn trong việc sinh hoạt hằng ngày.
 <img src ='/display/desease_skin.jpg'>
+
 Ứng dụng chỉ cần bạn chụp 1 bức ảnh về vùng da có dấu hiệu bất thường, ứng dụng sẽ chuẩn đoán bệnh với độ chính xác khoảng 80% và đưa ra các lời khuyên , các điều trị hợp lí nhất.
 
 * Hiện tại mới nhận diện được 7 bệnh về da : nv, mel, bkl, bcc, akiec, df, vasc
@@ -40,4 +41,5 @@ Trần Trung Trực -16T3
 Sau này có thể phát triển thành hệ thống web, app, nhận diện các bệnh về da, mắt, kết nối với các bác sĩ y tế để cho hướng dẫn kịp thời nhất.
 # 7. Tài liệu tham khảo
 https://arxiv.org/ftp/arxiv/papers/1907/1907.03220.pdf
+
 https://tedu.com.vn/video/flutter-can-ban-bai-10-su-dung-material-design-752.html
