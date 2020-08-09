@@ -1,0 +1,14 @@
+name: skin_desease
+description: A new Flutter project.
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  tflite:
+  image_picker:
+  
+flutter:
+  assets:
+    - assets/labels.txt
+    - assets/model_unquant.tflite
