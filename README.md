@@ -22,10 +22,15 @@ Trần Trung Trực -16T3
 * Liên hệ: fb: https://www.facebook.com/profile.php?id=100038801181933
 # 3. Giao diện ứng dụng
 ** Giao diện home **
+
 <img src ='/display/home.jpg'>
+
 ** Giao diện  upload **
+
 <img src ='/display/upload_image.jpg'>
+
 ** Giao diện predict **
+
 <img src ='/display/predict.jpg'>
 
 # 4. Môi trường cài đặt 
